@@ -47,7 +47,7 @@ def unit_conversion(value, unit_from , unit_to):
     else:
           return 'Invalid Conversion'
 st.title('Unit Converter')
-value = st.number_input('Enter a Value to Convert', min_value=0.0)
+value = st.number_input('Enter a Value to Convert', min_value=1.0, step=1.0)
 unit_from = st.selectbox('Convert From', ["metre", "kilometre", "gram", "kilogram","centimetre", "foot", "inch", "mile", "nauticalmile", "yard"])
 unit_to = st.selectbox("Convert To", ["metre", "kilometre", "gram", "kilogram","centimetre", "foot", "inch", "mile", "nauticalmile", "yard"])
 
