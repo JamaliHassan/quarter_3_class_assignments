@@ -1,16 +1,37 @@
 [
     {
-        "title": "dlaksjd",
-        "author": "jklsadj",
-        "year": 2002,
-        "genre": "dsaksl;a",
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "genre": "Dystopian / Political Fiction / Science Fiction",
         "read": false
     },
     {
-        "title": "jsalkd",
-        "author": "sajdl",
-        "year": 102,
-        "genre": "jdal]",
+        "title": "Harry Potter and the Sorcerer\u2019s Stone",
+        "author": "J.K. Rowling",
+        "year": 1997,
+        "genre": "Fantasy / Adventure / Young Adult",
+        "read": false
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": 1813,
+        "genre": "Romance / Classic / Social Commentary",
+        "read": false
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "year": 1988,
+        "genre": " Adventure / Philosophy / Fiction",
+        "read": false
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "genre": " Fiction / Classic / Coming-of-age",
         "read": false
     }
 ]
